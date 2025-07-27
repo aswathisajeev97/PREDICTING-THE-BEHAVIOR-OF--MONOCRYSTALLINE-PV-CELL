@@ -30,7 +30,7 @@ This project presents a physics-based MATLAB/Simulink model of a monocrystalline
 ---
 
 
-##🧠 Key Concepts
+## 🧠 Key Concepts
 
 - Physics-Based Modeling: Simulates solar cell performance using the single-diode equivalent circuit and its governing equations.
 
@@ -38,4 +38,4 @@ This project presents a physics-based MATLAB/Simulink model of a monocrystalline
 
 - MPPT: Ensures the system operates at the Maximum Power Point under varying conditions using a closed-loop control algorithm.
 
---
+---
