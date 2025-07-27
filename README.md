@@ -31,8 +31,11 @@ This project presents a physics-based MATLAB/Simulink model of a monocrystalline
 
 
 ##🧠 Key Concepts
-Physics-Based Modeling: Simulates solar cell performance using the single-diode equivalent circuit and its governing equations.
 
-Parameter Sensitivity: Evaluates how electrical output varies with changes in Rs, Rsh, temperature, and irradiance.
+- Physics-Based Modeling: Simulates solar cell performance using the single-diode equivalent circuit and its governing equations.
 
-MPPT: Ensures the system operates at the Maximum Power Point under varying conditions using a closed-loop control algorithm.
+- Parameter Sensitivity: Evaluates how electrical output varies with changes in Rs, Rsh, temperature, and irradiance.
+
+- MPPT: Ensures the system operates at the Maximum Power Point under varying conditions using a closed-loop control algorithm.
+
+--
